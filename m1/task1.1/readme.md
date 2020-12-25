@@ -3,7 +3,7 @@ DevOps(System) engineer - "Это админ с большой зарплато�
 
 
 
-![images](00.png)
+![00.png](https://github.com/Iferial/DevOps_online_Dnipro_2020Q42021Q1/blob/main/m1/task1.1/images/00.png)
 ![images](01.png)
 ![images](02.png)
 ![images](03.png)
