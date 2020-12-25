@@ -7,6 +7,7 @@ DevOps(System) engineer - "Это админ с большой зарплато�
 ![images](01.png)
 ![images](02.png)
 ![images](03.png)
+![images](04.png)
 ivans@ivans-VirtualBox:~/DevOps/DevOps_online_Dnipro_2020Q42021Q1$ git reflog 
 abee8bc (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
 5fe4080 HEAD@{1}: checkout: moving from develop to main
