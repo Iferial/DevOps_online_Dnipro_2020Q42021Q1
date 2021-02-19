@@ -25,6 +25,8 @@ Screenshot 2.
 
 
 ![01.png](https://github.com/Iferial/DevOps_online_Dnipro_2020Q42021Q1/blob/main/m9/task9.1/screenshots/01.png)
+
+
 def fizzbuzz(x):
     for x in range(1,101):
         if x % 3 == 0 and x % 5 == 0:
@@ -47,7 +49,26 @@ Screenshot 3.
 ![02.png](https://github.com/Iferial/DevOps_online_Dnipro_2020Q42021Q1/blob/main/m9/task9.1/screenshots/02.png)
 
 
+def vowel_counter(text):
+    text = str(input('Print some text here: '))
+    vowels = 'aeiouAEIOU'
+    count = 0
+
+    for i in ''.join(text):
+        if i in vowels:
+            count += 1
+
+    return count
+print(vowel_counter(text))
+
+
 Screenshot 4.
 
 
 ![03.png](https://github.com/Iferial/DevOps_online_Dnipro_2020Q42021Q1/blob/main/m9/task9.1/screenshots/03.png)
+
+
+def vowel_counter(text):
+    text = str(input('Print smth here and this program will counting vowels in your text: '))
+    return sum([1 for i in ''.join(text) if i in 'aeiouAEIOU'])
+print(vowel_counter(text))
