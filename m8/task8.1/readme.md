@@ -25,8 +25,8 @@ Screenshot 6.
 
 
 Screenshot 7.
-![06.png](https://github.com/Iferial/DevOps_online_Dnipro_2020Q42021Q1/blob/main/m8/task8.1/screenshots/05.png)
+![06.png](https://github.com/Iferial/DevOps_online_Dnipro_2020Q42021Q1/blob/main/m8/task8.1/screenshots/06.png)
 
 
 Screenshot 8.
-![07.png](https://github.com/Iferial/DevOps_online_Dnipro_2020Q42021Q1/blob/main/m8/task8.1/screenshots/05.png)
+![07.png](https://github.com/Iferial/DevOps_online_Dnipro_2020Q42021Q1/blob/main/m8/task8.1/screenshots/07.png)
